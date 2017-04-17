@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-calendar",
+  "name": "cordova-plugin-calendar-imax",
   "version": "4.5.0",
   "description": "This plugin allows you to manipulate the native calendar.",
   "cordova": {
-    "id": "cordova-plugin-calendar",
+    "id": "cordova-plugin-calendar-imax",
     "platforms": [
       "ios",
       "android"

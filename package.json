@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin.git"
+    "url": "git+https://github.com/maxappsmobile/cordova-plugin-calendar.git"
   },
   "keywords": [
     "Calendar",
@@ -30,7 +30,7 @@
   "author": "Eddy Verbruggen <eddyverbruggen@gmail.com> (https://github.com/EddyVerbruggen)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin/issues"
+    "url": "https://github.com/maxappsmobile/cordova-plugin-calendar.git/issues"
   },
-  "homepage": "https://github.com/EddyVerbruggen/Calendar-PhoneGap-Plugin#readme"
+  "homepage": "https://github.com/maxappsmobile/cordova-plugin-calendar.git#readme"
 }
